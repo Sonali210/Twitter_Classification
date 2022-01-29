@@ -8,3 +8,5 @@ Stopwords: https://www.geeksforgeeks.org/removing-stop-words-nltk-python/ </br>
 Tokenize: https://www.geeksforgeeks.org/tokenize-text-using-nltk-python/?ref=lbp </br>
 Padding: https://medium.com/@canerkilinc/padding-for-nlp-7dd8598c916a </br>
 Sequential model: https://keras.io/guides/sequential_model/
+
+Documentation Link : https://docs.google.com/document/d/1LJBDviUs2DieCdBKYyozxa9yqIQnLHRFnYijCrXu2do/edit?usp=sharing 
